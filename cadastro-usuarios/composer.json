@@ -1,0 +1,17 @@
+{
+    "name": "debor/cadastro-usuarios",
+    "description": "Projeto cadastro",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "deegooprogramador",
+            "email": "diegomanolo45@gmail.com"
+        }
+    ],
+    "require": {}
+}
