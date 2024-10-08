@@ -1,0 +1,3 @@
+com\mycompany\projeto\excecoes\erros\ErroBancoDados.class
+com\mycompany\projeto\excecoes\erros\OperacaoInvalida.class
+com\mycompany\projeto\excecoes\ProjetoExcecoes.class
